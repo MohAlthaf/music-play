@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+.gradient-text {
+  background: linear-gradient(to bottom, #f5f5f5, #a3a3a3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

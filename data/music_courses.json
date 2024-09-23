@@ -1,0 +1,48 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "description": "Enhance dksfghj wekf jdhsf your singing with advanced vocal lechniques for intermediate to advanced learners.",
+      "slug": "John Doe",
+      "price": 9.99,
+      "instructor": "John Doe",
+      "duration": "6 months",
+      "image": "https://example.com/course1.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Advanced Vocal Techniques",
+      "description": "Enhance dksfghj wekf jdhsf your singing with advanced vocal lechniques for intermediate to advanced learners.",
+      "slug": "John Doe",
+      "price": 9.99,
+      "instructor": "John Doe",
+      "duration": "6 months",
+      "image": "https://example.com/course1.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "Advanced Vocal Techniques",
+      "description": " Electronic Music Production eate compering enctinie musie with i course designed for beginners to Ovanced users.",
+      "slug": "John Doe",
+      "price": 9.99,
+      "instructor": "John Doe",
+      "duration": "6 months",
+      "image": "https://example.com/course1.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Blues Guitar Techniques",
+      "description": " Discover the techniques of blues guitar to add soul and depth to your playing",
+      "slug": "John Doe",
+      "price": 9.99,
+      "instructor": "John Doe",
+      "duration": "6 months",
+      "image": "https://example.com/course1.jpg",
+      "isFeatured": true
+    }
+  ]
+}
